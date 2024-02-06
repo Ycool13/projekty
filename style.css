@@ -1,0 +1,100 @@
+.border {
+    scale: 2;
+    height: 55px;
+    width: 957px;
+    background-color: rgb(8, 201, 8);
+    border: 2px solid;
+    position: absolute;
+    top: 29px;
+    left: 479px;
+}
+.email {
+    position: fixed;
+    top: 0px;
+}
+.num {
+    position: fixed;
+    top: 30px;
+}
+.adres {
+    position: fixed;
+    top: 60px;
+}
+.linia1 {
+    scale: 2;
+    height: 55px;
+    width: 0px;
+    background-color: black;
+    border: 1px solid;
+    position: fixed;
+    top: 30px;
+    left: 240px;
+}
+.linia2 {
+    scale: 1;
+    height: 1px;
+    width: 238px;
+    background-color: black;
+    border: 1px solid;
+    position: fixed;
+    top: 43px;
+    left: 2px;
+}
+.linia3 {
+    scale: 1;
+    height: 1px;
+    width: 238px;
+    background-color: black;
+    border: 1px solid;
+    position: fixed;
+    top: 73px;
+    left: 2px;
+}
+.ime {
+    scale: 2;
+    position: fixed;
+    top: 20px;
+    left: 850px;
+}
+.wikikarp {
+    position: absolute;
+    top: 200px;
+    background-color: rgb(210, 218, 224);
+    border: 1px solid;
+    color: black;
+}
+.rbxhack {
+    position: absolute;
+    top: 270px;
+    background-color: rgb(210, 218, 224);
+    border: 1px solid;
+    color: black;
+}
+.firstsite {
+    position: absolute;
+    top: 340px;
+    background-color: rgb(210, 218, 224);
+    border: 1px solid;
+    color: black;
+}
+.sites {
+    scale: 2;
+    position: fixed;
+    top: 140px;
+    left: 70px;
+}
+.wikikarptext {
+    position: fixed;
+    top: 209px;
+    left: 160px;
+}
+.rbxhacktext {
+    position: fixed;
+    top: 278px;
+    left: 160px;
+}
+.firstsitetext {
+    position: fixed;
+    top: 348px;
+    left: 150px;
+}
